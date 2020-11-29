@@ -1,10 +1,10 @@
 # bondpricing
-Just a simple function to calculate the net future value of a bond given the biannual coupon payments, interest rates, price of the bond, and the number of years active
+Just a simple function to calculate the net present value of a bond given the biannual coupon payments, interest rates, price of the bond, and the number of years active
 
 Given:
 ![](bondprices.JPG)
 
-For the thirty year bond,
+For the thirty year bond, assuming a steady 2.5% interest rate in the US,
 ```
 What is the principal value of the bond? 101.31
 What is the interest rate of the the country? 2.5
